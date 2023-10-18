@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937853754445",
+    "project_id": "spotifycl-b501a",
+    "storage_bucket": "spotifycl-b501a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937853754445:android:fb186f2b0da7f6dd261004",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937853754445-hfbe3lkkj8toikb6mc21ategnd9fr0ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCppzzlO0DLgTCWb-6VQA_w-wVkUkSz2RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937853754445-hfbe3lkkj8toikb6mc21ategnd9fr0ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
